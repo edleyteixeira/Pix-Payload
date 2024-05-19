@@ -1,4 +1,4 @@
-# [PixPayloadGen](https://pypi.org/project/PixPayloadGen/)
+# [PixPayloadGen](https://pypi.org/project/PixPayloadGen/) By [REIZINHODEV](https://www.instagram.com/stories/reizinho.driverblack/)
 
 O Payload-Pix é um gerador de payload para transações PIX que cria um código QR a partir das informações fornecidas, facilitando a realização de pagamentos.
 

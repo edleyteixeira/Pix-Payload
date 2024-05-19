@@ -5,7 +5,7 @@ with codecs.open("README.md", "r", "utf-8") as fh:
         readme = fh.read()
 
 setup(name='PixPayloadGen',
-    version='0.0.3',
+    version='0.0.5',
     license='MIT License',
     author='REIZINHODEV',
     long_description=readme,

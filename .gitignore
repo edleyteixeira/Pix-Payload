@@ -16,6 +16,8 @@ env/
 # Arquivos gerados pela IDE (por exemplo, PyCharm, VSCode)
 .idea/
 .vscode/
+.dist/
+.PixPayloadGen.egg-info/
 
 # Arquivos de build
 build/
