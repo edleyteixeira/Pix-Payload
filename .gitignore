@@ -1,0 +1,25 @@
+# Arquivos de byte compilados Python
+__pycache__/
+
+#Arquivo de config
+.pypirc
+
+# Arquivos de ambiente virtual
+venv/
+env/
+
+# Arquivos de log e dados
+*.log
+*.csv
+*.sqlite
+
+# Arquivos gerados pela IDE (por exemplo, PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Arquivos de build
+build/
+dist/
+
+# Arquivos de configuração local (cuidado ao usar isso, alguns preferem versionar)
+.env
