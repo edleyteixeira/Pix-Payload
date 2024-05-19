@@ -2,8 +2,8 @@ import crcmod
 import qrcode
 import os
 
-class PayloadPix:
-    def __init__(self, valor, name, key, city, txtid):
+class PayloadPixGen:
+    def __init__(self, valor, name, key, city, txtid="***"):
         
         self.valor = valor.replace(",", ".")
         self.name = name
